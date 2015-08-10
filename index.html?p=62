@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xml:lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>CUSEC 2012 | CUSEC 2012</title>
+        <meta http-equiv="Content-language" content="en-US" />
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+        <link rel="shortcut icon" href="wp-content/themes/sight/images/favico.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" media="all" href="wp-content/themes/sight/style.css" />
+        <!--[if IE]><link rel="stylesheet" type="text/css" media="all" href="http://2012.cusec.net/wp-content/themes/sight/ie.css" /><![endif]-->
+                <link rel="alternate" type="application/rss+xml" title="CUSEC 2012 &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="CUSEC 2012 &raquo; Comments Feed" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="CUSEC 2012 &raquo; CUSEC 2012 Comments Feed" href="cusec-2012/feed/index.html" />
+<script type='text/javascript' src='http://2012.cusec.net/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='wp-content/themes/sight/js/jquery.cycle.all.min.js?ver=3.5'></script>
+<script type='text/javascript' src='wp-content/themes/sight/js/jquery.cookie.js?ver=3.5'></script>
+<script type='text/javascript' src='http://2012.cusec.net/wp-includes/js/comment-reply.min.js?ver=3.5'></script>
+<script type='text/javascript' src='wp-content/themes/sight/js/script.js?ver=3.5'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://2012.cusec.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='next' title='About Our Theme' href='index.html?p=119' />
+<meta name="generator" content="WordPress 3.5" />
+<link rel='canonical' href='index.html?p=62' />
+<link rel='shortlink' href='index.html?p=62' />
+<link rel="stylesheet" type="text/css" href="wp-content/plugins/wp-recaptcha/recaptcha.css" />        	</head>
+	<body >
+        <div class="wrapper">
+
+            <div class="header clear">
+                <div class="logo">
+                    <a href="index.html"><img src="wp-content/uploads/2011/12/logo_date.png" alt="CUSEC 2012"/></a>
+                </div>
+
+                <div class="site-description">			<div class="textwidget">The Canadian University Software Engineering Conference (or CUSEC) is a three-day event that brings together undergraduate and post-graduate students for learning, networking, and sharing their passion for software. CUSEC 2012 will happen from January 19-21, 2012 in Montreal, Quebec.</div>
+		</div>
+                <div class="search">
+    <form method="get" id="searchform" action="index.html">
+        <fieldset>
+            <input name="s" type="text" onfocus="if(this.value=='Search') this.value='';" onblur="if(this.value=='') this.value='Search';" value="Search" />
+            <button type="submit"></button>
+        </fieldset>
+    </form>
+</div>
+
+                <div class="menu"><ul id="menu-top-menu" class=""><li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116"><a href="http://twitter.com/CUSEC">Twitter</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="http://www.facebook.com/pages/CUSEC/9884406702">Facebook</a></li>
+<li id="menu-item-118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-118"><a href="http://cusec.net/archives.html">Archives</a></li>
+</ul></div>
+		<script type="text/javascript" src="http://guestlistapp.com/javascripts/guestlist-embed.js"></script>
+		<a class="guestlist-event-56712" href="index.html?p=62#"><img align="right" style="border: 0; margin-top: 5px; margin-right: 15px;" src="wp-content/uploads/2011/11/register2.png" alt="Register for Event"></a>
+
+            </div>
+
+            <div class="nav"><ul id="dd" class="dd"><li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="speakers/index.html">Speakers</a></li>
+<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="sponsors/index.html">Sponsors</a></li>
+<li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="schedule/index.html">Schedule</a></li>
+<li id="menu-item-438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-438"><a href="event/index.html">Events</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="faq/index.html">FAQ</a></li>
+<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="democamp/index.html">DemoCamp</a></li>
+<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"><a title="Morgan Stanley Coding Competition" href="competition/index.html">Competition</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="schools/index.html">Schools</a></li>
+<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="organizers/index.html">Organizers</a></li>
+<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="mailing-list/index.html">Mailing List</a></li>
+</ul></div>			<div class="nav"></div> 
+            
+            <!-- Container -->
+            <div id="container" class="clear">
+                <!-- Content -->
+                <div id="content">
+
+            
+        <div class="content-title">
+            <a href="category/uncategorized/index.html" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a>            <a href="http://facebook.com/share.php?u=http://2012.cusec.net/cusec-2012/&amp;t=CUSEC+2012" target="_blank" class="f" title="Share on Facebook"></a>
+            <a href="http://twitter.com/home?status=CUSEC 2012 <br />
+<b>Warning</b>:  file_get_contents() [<a href='http://2012.cusec.net/cusec-2012/function.file-get-contents'>function.file-get-contents</a>]: http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in <b>/nfs/c01/h13/mnt/1251/domains/2012.cusec.net/html/wp-content/themes/sight/functions.php</b> on line <b>725</b><br />
+<br />
+<b>Warning</b>:  file_get_contents(http://tinyurl.com/api-create.php?url=http://2012.cusec.net/cusec-2012/) [<a href='http://2012.cusec.net/cusec-2012/function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in <b>/nfs/c01/h13/mnt/1251/domains/2012.cusec.net/html/wp-content/themes/sight/functions.php</b> on line <b>725</b><br />
+" target="_blank" class="t" title="Spread the word on Twitter"></a>
+            <a href="http://digg.com/submit?phase=2&amp;url=http://2012.cusec.net/cusec-2012/&amp;title=CUSEC 2012" target="_blank" class="di" title="Bookmark on Del.icio.us"></a>
+            <a href="http://stumbleupon.com/submit?url=http://2012.cusec.net/cusec-2012/&amp;title=CUSEC+2012" target="_blank" class="su" title="Share on StumbleUpon"></a>
+        </div>
+
+        <div class="entry">
+            <div class="post-62 post type-post status-publish format-standard hentry category-uncategorized single clear" id="post_62">
+                <div class="post-meta">
+                    <h1>CUSEC 2012</h1>
+                    by <span class="post-author"><a href="author/eri/index.html" title="Posts by Eric Chan">Eric Chan</a></span> on <span
+                        class="post-date">Aug 1, 2011</span> &bull; <span>12:00 am</span> <a
+                        href="index.html?p=62#comments" class="post-comms">No Comments</a></div>
+                <div class="post-content"><p>Welcome to the CUSEC 2012 site! Throughout the coming months, organizers  will be busy updating this page with speakers, venue, and events for  our conference in January. Stay updated and subscribe to our <a title="RSS feed" href="index.html?feed=rss">RSS feed</a> or our <a title="Mailing List" href="mailing-list/index.html">mailing list</a>.<br />
+CUSEC is a conference for student by students.</p>
+<p>Registration will be open shortly.</p>
+</div>
+                <div class="post-footer"></div>
+            </div>
+            <div class="post-navigation clear">
+                                                                                <a class="post-next" href="index.html?p=119"><em>Next post</em><span>About Our Theme</span></a>
+                                    <div class="line"></div>
+            </div>
+        </div>
+
+            
+<div class="comments">
+    
+    
+    <div id="comments">
+        </div>
+
+    
+    <div id="respond">
+        <h3>What do you think?</h3>
+        <div class="comment_form">
+
+                    <p class="comment_message">You must be <a href="wp-login.php?redirect_to=http%253A%252F%252F2012.cusec.net%252Fcusec-2012%252F">logged in</a> to post a comment.</p>
+        
+        </div>
+
+        
+    </div>
+
+</div>
+<!-- #comments -->
+            </div>
+            <!-- /Content -->
+
+            <div class="sidebar">
+
+
+		
+    <!-- ?php if ( (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Sidebar')) && (curPageURL() != "http://2012.cusec.net/sponsors/")) :
+        $widget_args = array(
+            'after_widget' => '</div></div>',
+            'before_title' => '<h3>',
+            'after_title' => '</h3><div class="widget-body clear">'
+        );
+    ? -->
+
+
+   
+   <!-- ?php the_widget( 'GetConnected', 'title=Get Connected', $widget_args); ? -->
+
+    
+
+
+    <div class="widget sponsors">
+        <h3>Our sponsors</h3>
+        <div class="widget-body">
+		<a style="display:block; margin-top: 30px;" href="http://www.riotgames.com/careers">
+		<img src="wp-content/uploads/2011/12/Riot-logo-BLACK_TEXT-small.png" width="233" height="181" alt=""/></a>
+
+		<a style="display:block; margin-top: 30px;" href="https://www.dropbox.com/">
+		<img src="wp-content/uploads/2011/11/dropbox-logo.png" width="245" height="68" alt=""/></a>
+		
+		<a style="display:block; margin-top: 20px;" href="http://www.adobe.com/careers" target="_blank">
+		<img src="wp-content/uploads/2011/09/adobe_logo_standard_jpg.jpg" width="99" height="125" alt=""/>
+
+		<a style="display:block; margin-top: 20px;" href="http://www.amazon.com/gp/jobs">
+		<img src="wp-content/uploads/2012/01/photo.jpg" width="183" height="56" alt=""/></a>
+
+		<a style="display:block; margin-top: 20px;" href="http://www.encs.concordia.ca/">
+		<img src="wp-content/uploads/2011/11/ENCS-LOGO-E-CMYK.jpg" width="220" height="70" alt=""/></a>
+
+		<a style="display:block; margin-top: 10px;" href="http://www.genetec.com/Pages/default-en.aspx">
+		<img src="wp-content/uploads/2011/11/Logo_Genetec_RGB.png" width="204" height="41" alt=""/></a>
+
+<!--
+		<a style="display:block; margin-top: 20px;" href="http://www-03.ibm.com/employment/">
+		<img src="http://2012.cusec.net/wp-content/uploads/2012/01/ibmpos_blurgb.jpg" width="158" height="62" alt=""/></a>
+-->
+
+		<a style="display:block; margin-top: 10px;" href="http://www.godevmental.ca/?WT.mc_id=soc-c-ca-loc--CUSEC2012">
+		<img src="wp-content/uploads/2011/11/microsoft-logo.jpg" width="229" height="57" alt=""/></a>
+
+		<a style="display:block; margin-top: 10px;" href="http://www.morganstanley.com/about/careers/">
+		<img src="wp-content/uploads/2011/10/MS-Sm-RGB_7463.png" width="232" height="35" alt=""/></a>
+
+		<a style="display:block; margin-top: 10px;" href="http://www.qnx.com/">
+		<img src="wp-content/uploads/2011/12/qnx-logo.png" width="199" height="58" alt=""/></a>
+			
+		<a style="display:block; margin-top: 20px;" href="http://www.careersatsap.com/">
+		<img src="wp-content/uploads/2012/01/sap_logo.gif" width="154" height="75" alt=""/></a>
+		
+		<a style="display:block; margin-top: 20px;" href="http://www.shopify.com/">
+		<img src="wp-content/uploads/2011/11/Shopify-Green_256x256.jpg" width="111" height="111" alt=""/></a>
+		<a style="display:block; margin-top: 20px;" href="http://evolvingweb.ca/">
+		<img src="wp-content/uploads/2012/01/evolvingweblogo.png" width="200" height="49" alt=""/></a>
+	
+		<a style="display:block; margin-top: 20px;" href="http://www.accedian.com/en/Company/company/careers">
+		<img src="wp-content/uploads/2011/10/accedian_networks.png" width="184" height="66" alt=""/></a>
+
+		<a style="display:block; margin-top: 20px; margin-left:20px" href="http://www.google.ca/intl/en/jobs/montreal/">
+		<img src="wp-content/uploads/2011/11/GoogleLogo.png" width="194" height="66" alt=""/></a>
+
+		<a style="display:block; margin-top: 20px; margin-left:20px" href="http://www.radialpoint.com/corp/en-static-careers.html">
+		<img src="wp-content/uploads/2012/01/Radialpoint-logo-with-tagline-092011.jpg" width="199" height="42" alt=""/></a>
+
+		<a style="display:block; margin-top: 20px; margin-left:20px" href="http://cutc.ca/">
+		<img src="wp-content/uploads/2011/12/CUTC_logo_HQ_affiliate.png" width="205" height="122" alt=""/></a>
+
+             </div>
+	
+    <!-- ?php endif; ? -->
+	
+	 
+	<!-- ?php the_widget( 'Recentposts_thumbnail', 'title=Recent posts', $widget_args); ? -->
+	</div>
+            </div>
+            <!-- /Container -->
+<!--
+            <div class="footer">
+                <p class="copyright">&copy; 2010 <a href="http://2012.cusec.net">CUSEC 2012</a>. All Rights Reserved.<br /><span>Powered by <a
+                        href="http://wordpress.org">WordPress</a>. <br />Designed by <a href="http://wpshower.com">WPSHOWER</a></span></p>
+            </div>
+-->
+        </div>
+        <!-- Page generated: 0.247 s, 31 queries -->
+        
+        
+	</body>
+</html>
